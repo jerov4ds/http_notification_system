@@ -1,0 +1,6 @@
+com\jeremiah\controller\PangaeaController.class
+com\jeremiah\Pangaea.class
+com\jeremiah\repository\SubscriptionRepository.class
+com\jeremiah\model\Subscription.class
+com\jeremiah\model\MessageResponse.class
+com\jeremiah\service\PangaeaService.class
